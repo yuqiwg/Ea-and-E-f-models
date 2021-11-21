@@ -1,0 +1,1 @@
+copy learning.py to anaconda/lib/site-packages/ase/calculators/
